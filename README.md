@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👋 Hi, I'm Brandon Adolf
 
-<!--
-**bcadolf/bcadolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer Student | Backend-Focused Full Stack Developer | Passionate About New Projects**
 
-Here are some ideas to get you started:
+📍 Based in Virginia, USA 
+🔗 [LinkedIn](https://www.linkedin.com/in/brandon-adolf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a proactive software development student with hands-on experience building dynamic web applications and APIs. I specialize in backend development using **Node.js**, **TypeScript**, and **PostgreSQL**, and I’m passionate about crafting scalable, maintainable solutions that deliver real value. I thrive in remote team environments and bring strong attention to detail, communication, and a hunger to learn.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages & Frameworks:**  
+JavaScript, TypeScript, Node.js, C#, Python, React, Next.js, Express, EJS
+
+**Databases:**  
+PostgreSQL, MySQL, MongoDB
+
+**Tools & Platforms:**  
+Git, GitHub, VSCode, Render, Vercel, JSON
+
+**Other Skills:**  
+Remote Collaboration, Conflict Resolution, Quick Learning, UI/UX Awareness
+
+---
+
+## 📚 Education
+
+**Bachelor of Applied Science in Software Development**  
+BYU–Pathway | *In Progress, Est. March 2026*
+
+**Associate of Applied Science in Software Development**  
+BYU–Pathway | *August 2025*
+
+**Certificates:**  
+- Next.js App Router Fundamentals (July 2025)  
+- Web Development (August 2025)  
+- Web & Computer Programming (December 2024)
+
+---
+
+## 💻 Featured Projects
+
+### 🔹 [React Web App – wdd430-team4](https://github.com/bcadolf/wdd430-team4)
+Collaborative class project using React and PostgreSQL. I led the backend development:
+- Designed the initial public schema
+- Populated the DB with Data. 
+- Built SQL functions for data access and manipulation
+- Developed the Sellers landing page
+
+### 🔹 [Interactive Frontend Site](https://github.com/bcadolf/wood-working-website)
+Built with JavaScript, HTML, and CSS:
+- Enhanced client-side interactivity
+- Responsive design principles
+
+---
+
+## 📈 What I'm Working On
+
+- Deepening my expertise in **Next.js** and **TypeScript**
+- Finishing my last certificate in **Software Development**
+- Building a portfolio that reflects both technical depth and user experience
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to internships, collaborative projects, and mentorship opportunities. If you're looking for a developer who values clarity, maintainability, and robust code—let’s talk!
+
+
