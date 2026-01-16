@@ -16,7 +16,7 @@ I'm a proactive software development student with hands-on experience building d
 ## 🛠️ Technical Skills
 
 **Languages & Frameworks:**  
-JavaScript, TypeScript, Node.js, C#, Python, React, Next.js, Express, EJS
+JavaScript, TypeScript, Node.js, C#, Python, React, Next.js, Express, EJS, Java
 
 **Databases:**  
 PostgreSQL, MySQL, MongoDB
