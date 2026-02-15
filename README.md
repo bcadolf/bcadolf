@@ -9,20 +9,20 @@
 
 ## 🚀 About Me
 
-I'm a proactive software development student with hands-on experience building dynamic web applications and APIs. I specialize in backend development using **Node.js**, **TypeScript**, and **PostgreSQL**, and I’m passionate about crafting scalable, maintainable solutions that deliver real value. I thrive in remote team environments and bring strong attention to detail, communication, and a hunger to learn.
+I'm a proactive software development student with hands-on experience building dynamic web applications and APIs. I’m passionate about crafting scalable, maintainable solutions that deliver real value. I thrive in remote team environments and bring strong attention to detail, communication, and a hunger to learn.
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages & Frameworks:**  
-JavaScript, TypeScript, Node.js, C#, Python, React, Next.js, Express, EJS, Java
+JavaScript, TypeScript, Node.js, C#, Python, React, Next.js, Express, EJS, Java, .NET, Blazor
 
 **Databases:**  
 PostgreSQL, MySQL, MongoDB
 
 **Tools & Platforms:**  
-Git, GitHub, VSCode, Render, Vercel, JSON
+Git, GitHub, VSCode, Render, Vercel, JSON, Unity
 
 **Other Skills:**  
 Remote Collaboration, Conflict Resolution, Quick Learning, UI/UX Awareness
