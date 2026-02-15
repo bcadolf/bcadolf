@@ -32,7 +32,7 @@ Remote Collaboration, Conflict Resolution, Quick Learning, UI/UX Awareness
 ## 📚 Education
 
 **Bachelor of Applied Science in Software Development**  
-BYU–Pathway | *In Progress, Est. March 2026*
+BYU–Pathway | *In Progress, Est. April 2026*
 
 **Associate of Applied Science in Software Development**  
 BYU–Pathway | *August 2025*
@@ -63,6 +63,7 @@ Built with JavaScript, HTML, and CSS:
 ## 📈 What I'm Working On
 
 - Deepening my expertise in **Next.js** and **TypeScript**
+- Exploring new frameworks **.NET Blazor** and **Unity**
 - Finishing my last certificate in **Software Development**
 - Building a portfolio that reflects both technical depth and user experience
 
