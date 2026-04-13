@@ -46,7 +46,7 @@ BYU–Pathway | *August 2025*
 
 ## 💻 Featured Projects
 
-### 🔹 [MealSync](https://github/bcadolf/MealSync)
+### 🔹 [MealSync](https://github.com/bcadolf/MealSync)
 Collaborative senior project build with .NET and Blazor:
 - Designed My Recipe pages and built custom SearchIngredientInputBar for a dynamic ingredient input box.
 - Changed the SQLite database to a Neon PostGreSQL database for production.
