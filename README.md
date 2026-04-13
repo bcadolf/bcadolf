@@ -32,7 +32,7 @@ Remote Collaboration, Conflict Resolution, Quick Learning, UI/UX Awareness
 ## 📚 Education
 
 **Bachelor of Applied Science in Software Development**  
-BYU–Pathway | *In Progress, Est. April 2026*
+BYU–Pathway | *April 2026*
 
 **Associate of Applied Science in Software Development**  
 BYU–Pathway | *August 2025*
@@ -45,6 +45,13 @@ BYU–Pathway | *August 2025*
 ---
 
 ## 💻 Featured Projects
+
+### 🔹 [MealSync](https://github/bcadolf/MealSync)
+Collaborative senior project build with .NET and Blazor:
+- Designed My Recipe pages and built custom SearchIngredientInputBar for a dynamic ingredient input box.
+- Changed the SQLite database to a Neon PostGreSQL database for production.
+- Setup the Azure Webservice to host the site in production. 
+
 
 ### 🔹 [React Web App – wdd430-team4](https://github.com/bcadolf/wdd430-team4)
 Collaborative class project using React and PostgreSQL. I led the backend development:
@@ -63,9 +70,9 @@ Built with JavaScript, HTML, and CSS:
 ## 📈 What I'm Working On
 
 - Deepening my expertise in **Next.js** and **TypeScript**
-- Exploring new frameworks **.NET Blazor** and **Unity**
-- Finishing my last certificate in **Software Development**
-- Building a portfolio that reflects both technical depth and user experience
+- Working with new frameworks **.NET Blazor**.
+- Exploring Game Development with **Unity** and **Phaser**.
+- Participating and CodeJams to aquire new skills and show my work. 
 
 ---
 
