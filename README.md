@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brandon Adolf
 
-**Software Developer Student | Backend-Focused Full Stack Developer | Passionate About New Projects**
+**Software Developer Graduate | Full Stack Developer | Passionate About New Projects**
 
 📍 Based in Virginia, USA 
 🔗 [LinkedIn](https://www.linkedin.com/in/brandon-adolf)
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a proactive software development student with hands-on experience building dynamic web applications and APIs. I’m passionate about crafting scalable, maintainable solutions that deliver real value. I thrive in remote team environments and bring strong attention to detail, communication, and a hunger to learn.
+I'm a proactive software development with hands-on experience building dynamic web applications and APIs. I’m passionate about crafting scalable, maintainable solutions that deliver real value. I thrive in remote team environments and bring strong attention to detail, communication, and a desire to learn.
 
 ---
 
