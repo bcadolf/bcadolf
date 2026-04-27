@@ -69,15 +69,16 @@ Built with JavaScript, HTML, and CSS:
 
 ## 📈 What I'm Working On
 
-- Deepening my expertise in **Next.js** and **TypeScript**
-- Working with new frameworks **.NET Blazor**.
+- Deepening my expertise in **Next.js** and **TypeScript**.
+- Working with new frameworks **.NET Blazor** and **.NET Maui-Blazor Hybrid**.
 - Exploring Game Development with **Unity** and **Phaser**.
-- Participating and CodeJams to aquire new skills and show my work. 
+- Learning AI both how to integrate it as I work and exploring how to build my own local model.
+- Weekly working on new applications to aquire skills and show my work. 
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to internships, collaborative projects, and mentorship opportunities. If you're looking for a developer who values clarity, maintainability, and robust code—let’s talk!
+I'm open to internships/mentorship, collaborative projects, and career opportunities. If you're looking for a developer who values clarity, maintainability, and robust code—let’s talk!
 
 
